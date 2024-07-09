@@ -36,16 +36,16 @@ Dive into the world of PublicPortal by following these straightforward steps:
 PublicPortal offers a comprehensive suite of features to enhance user interaction and simplify access to government services:
 
 ## Dependencies
-**flutter_inappwebview: ^6.0.0 (or later version):** 
+    flutter_inappwebview: ^6.0.0:
 
 Enables seamless integration of web views within the Flutter application.
 
 
-**provider: ^6.1.2 (or later version):**
+    provider: ^6.1.2 (or later version):
 
 Provides a robust state management solution for handling dynamic data within the application.
 
 
-**carousel_slider: ^4.2.1 (or later version):**
+    carousel_slider: ^4.2.1 (or later version):
 
  (Optional) Imparts an aesthetically pleasing and user-friendly carousel component for potentially showcasing featured services or announcements Or Images.
