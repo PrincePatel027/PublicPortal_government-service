@@ -8,6 +8,8 @@ PublicPortal is a user-friendly Flutter application designed to streamline acces
 
 ## Videos & Images
 
+![public_portal](https://github.com/PrincePatel027/PublicPortal_government-service/assets/149999800/c8906a7a-55e0-44d8-b823-c35226536cdd)
+
 // videos and Images
 
 ## Getting Started
